@@ -1,3 +1,40 @@
+<!-- visual-showroom:start -->
+<p align="center">
+  <img src="docs/showroom/readme-banner.svg" alt="Congressional Voting Analysis — repository cover" width="100%">
+</p>
+
+<p align="center">
+  <strong>Congressional Voting Analysis</strong><br>
+  MACHINE LEARNING &amp; LANGUAGE
+</p>
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/congressional-voting-analysis"><strong>Explore the showroom ↗</strong></a> ·
+  <a href="#implementation--original-documentation">Setup &amp; implementation ↓</a>
+</p>
+
+Looks at how US House members voted in 1984: association rules written from scratch, plus a decision tree that guesses a member's party with about 94% accuracy.
+
+## Visual tour
+
+[![Recorded decision-tree evaluation from the repository](docs/showroom/readme-view-1.png)](https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/congressional-voting-analysis)
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/congressional-voting-analysis"><img src="docs/showroom/readme-view-2.png" alt="Association rules output" width="96%"></a>
+</p>
+
+1. Recorded decision-tree evaluation from the repository
+2. Association rules output
+
+Original saved notebook outputs, not a product UI or a general model accuracy claim.
+
+## Implementation & original documentation
+
+The existing run instructions, architecture, limitations and credits are preserved below.
+
+---
+<!-- visual-showroom:end -->
+
 # Congressional Voting Patterns Analysis
 
 Analyzing the 1984 U.S. House of Representatives voting records with **association rule mining written from scratch** and a **Decision Tree** that predicts party affiliation (Democrat / Republican) from votes.
